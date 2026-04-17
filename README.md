@@ -20,6 +20,14 @@ This project demonstrates my ability to:
 
 ---
 
+## 📥 Download Full Project
+
+👉 [Download Excel Dashboard](https://docs.google.com/spreadsheets/d/1EP5nyEnY6C0vC-alpp7PHGgnHJi_K5ln/edit?usp=drive_link&ouid=111196698331496474021&rtpof=true&sd=true)
+
+> ⚠️ *Note: The Excel file is hosted externally due to GitHub size limitations.*
+
+---
+
 ## 🖼️ Dashboard Preview
 
 ### 📊 Market Performance vs Target
@@ -92,15 +100,6 @@ This project demonstrates my ability to:
 ✔️ Clean & scalable data model  
 ✔️ Business-focused insights  
 ✔️ Real-world use case  
-
----
-
-## 📌 How to Use
-
-1. Download the Excel file  
-2. Explore dashboards  
-3. Review Power Query transformations  
-4. Analyze the data model & DAX  
 
 ---
 
