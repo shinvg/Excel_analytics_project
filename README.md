@@ -1,5 +1,7 @@
 # 📊 Excel Sales & Finance Analytics Dashboard
 
+[![⬇️ Download Excel Dashboard](https://img.shields.io/badge/Download-Excel%20Dashboard-green?style=for-the-badge&logo=microsoft-excel)](https://docs.google.com/spreadsheets/d/1EP5nyEnY6C0vC-alpp7PHGgnHJi_K5ln/edit?usp=drive_link&ouid=111196698331496474021&rtpof=true&sd=true)
+
 ![Excel](https://img.shields.io/badge/Tool-Excel-green)
 ![Power Query](https://img.shields.io/badge/Power%20Query-ETL-blue)
 ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-Data%20Model-orange)
@@ -7,8 +9,6 @@
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 > Transforming raw data into **actionable business insights** using Excel’s advanced analytics stack.
-
----
 
 ## 🚀 Why This Project Matters
 
